@@ -1,34 +1,21 @@
 ---
 layout: default
-title: SN Creative
-description: Celebrate a graduation ceremony with SN Creative’s graduation party invitations and greeting cards. Whether it’s you or someone you love, mark the milestone with any of our graduation themed templates.
+title: What is a commencement exercise?
+description: 
 featured_image: /images/graduation-cap.jpg
 ---
-<body>
-
-<div class="header">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<div class="logo">
-<a href="{{site.url}}"><img src="images/logo.png" class="img-responsive"></a>
-</div>		
-</div>
-</div>
-</div>
-</div>
 
 <div class="main">
 <div class="container">
+<div class="row">
+<div class="col-md-12">
 
-  <div class="row">
-  <div class="col-md-12">
-  <h2>What is a commencement exercise?</h2>
-  <p>Since we are talking about Graduation Invitations, let’s delve on this closing of a new chapter and why it is an important mark of huge success of every student’s life. There are numerous types of graduations—elementary graduation, high school graduation, college graduation, and so on.</p>
+<h2>What is a commencement exercise?</h2>
+<p>Since we are talking about Graduation Invitations, let’s delve on this closing of a new chapter and why it is an important mark of huge success of every student’s life. There are numerous types of graduations—elementary graduation, high school graduation, college graduation, and so on.</p>
 
-  <p>Graduation—or also called commencement, convocation, or invocation—is the obtaining of a diploma or academic degree in which students become graduates. Before the graduation, candidates are referred to as graduands, and the date of graduation is often called graduation day. At the college and university levels, the faculty will usually wear academic dresses at the formal ceremonies, as will the administrator and degree candidates.</p>
+<p>Graduation—or also called commencement, convocation, or invocation—is the obtaining of a diploma or academic degree in which students become graduates. Before the graduation, candidates are referred to as graduands, and the date of graduation is often called graduation day. At the college and university levels, the faculty will usually wear academic dresses at the formal ceremonies, as will the administrator and degree candidates.</p>
 
-  <p>Graduation at the college and university level happens when the supervising officer deliberates degrees upon candidates, either individually or all at once, even if graduates physically receive their diploma later at a smaller college or departmental ceremony. After degree completion, graduates can be referred to by their graduating year.</p>
+<p>Graduation at the college and university level happens when the supervising officer deliberates degrees upon candidates, either individually or all at once, even if graduates physically receive their diploma later at a smaller college or departmental ceremony. After degree completion, graduates can be referred to by their graduating year.</p>
 
 <p>A commencement exercise, commonly referred to as a commencement or graduation ceremony, is an event that marks the completion of an academic degree or program of study. It is a formal occasion typically held by educational institutions such as high schools, colleges, and universities.</p>
 
@@ -55,19 +42,8 @@ featured_image: /images/graduation-cap.jpg
 <p>Recessional: Similar to the processional, the ceremony ends with a recessional, where participants exit in a formal manner.</p>
 
 <p>View our <a href="{{site.url}}">graduation invitation cards</a> to celebrate your commencement ceremony.</p>
-  </div>
-  </div>
 
 </div>
 </div>
-
-<div class="footer">
-<div class="container">
-<div class="row">
-<div class="col-md-12">	
 </div>
 </div>
-</div>
-</div>
-</body>
-</html>

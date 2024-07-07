@@ -3,19 +3,6 @@ layout: default
 title: SN Creative
 description: Celebrate a graduation ceremony with SN Creative’s graduation party invitations and greeting cards. Whether it’s you or someone you love, mark the milestone with any of our graduation themed templates.
 ---
- 
-
-<div class="header">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<div class="logo">
-<a href="{{site.url}}"><img src="images/logo.png" class="img-responsive"></a>
-</div>		
-</div>
-</div>
-</div>
-</div>
 
 <div class="index_page_banner">
 <div class="container">
@@ -39,11 +26,11 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
   </div>
   </div>
 
- <div class="row">
- <div class="col-md-12">
- <h2>Some Frequently Asked Questions</h2>
- </div>
- </div>
+  <div class="row">
+  <div class="col-md-12">
+  <h2>Some Frequently Asked Questions</h2>
+  </div>
+  </div>
 
   <div class="row">
   <div class="col-md-4">
@@ -77,6 +64,9 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
   </div>
   </div>
 
+</div>
+</div>
+
 <!-- <div class="col-md-4">
 <h3>What is a commencement exercise?</h3>
 <p>Since we are talking about Graduation Invitations, let’s delve on this closing of a new chapter and why it is an important mark of huge success of every student’s life. There are numerous types of graduations—elementary graduation, high school graduation, college graduation, and so on.</p>
@@ -102,16 +92,3 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 <p>A graduation is necessary because it is a rite of passage to so many people. A graduation is not just the end battle; it is a new start—the start of a new chapter in a person’s life whether it be another school year or the entry into finding and landing a job. Graduations help people reminisce the things achieved in the past, as well as helping people to look forward to the future.</p>
 </div> -->
 
-</div>
-</div>
-
-<div class="footer">
-<div class="container">
-<div class="row">
-<div class="col-md-12">	
-</div>
-</div>
-</div>
-</div>
-</body>
-</html>
