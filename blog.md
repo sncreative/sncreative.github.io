@@ -7,19 +7,33 @@ description: Blog
 <div class="main">
 <div class="container">
 
-  <div class="row">
-  <div class="col-md-12">
-  <h2>Latest Posts</h2>
-  </div>
-  </div>
+<div class="row">
+<div class="col-md-12">
+<h2>Latest Posts</h2>
+</div>
+</div>
 
 <div class="row">
-{% for post in site.posts %}
+
 <div class="col-md-4">
-{% if page.featured_image %} <img src="{{ page.featured_image }}" alt="Featured Image"> {% endif %}
-<a href="{{ post.url }}">{{ post.title }}</a>
+<div class="s1">
+<img src="{{site.url}}/images/graduation-cap.jpg" class="img-fluid">
+<h2><a href="https://sncreative.github.io/commencement-exercise/">What is a commencement exercise?</a></h2>
 </div>
-{% endfor %}
+</div>
+<div class="col-md-4">
+<div class="s1">
+<img src="{{site.url}}/images/graduation-cap.jpg" class="img-fluid">
+<h2>What is a commencement exercise?</h2>
+</div>
+</div>
+<div class="col-md-4">
+<div class="s1">
+<img src="{{site.url}}/images/graduation-cap.jpg" class="img-fluid">
+<h2>What is a commencement exercise?</h2>
+</div>
+</div>
+
 </div>  
 
 </div>
