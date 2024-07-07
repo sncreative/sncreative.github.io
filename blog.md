@@ -9,7 +9,7 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 <div class="row">
 <div class="col-md-12">
 <div class="logo">
-<a href="{{site.url}}"><img src="images/logo.png" class="img-responsive"></a>
+<a href="{{site.url}}"><img src="{{site.url}}/images/logo.png" class="img-responsive"></a>
 </div>		
 </div>
 </div>
