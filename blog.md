@@ -25,13 +25,16 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
   </div>
   </div>
 
-  <div class="row">
-  {% for post in site.posts %}
-  <div class="col-md-4">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-  </div>
-  {% endfor %}
-  </div>  
+<div class="row">
+{% for post in site.posts %}
+<div class="col-md-4">
+{% if page.featured_image %}
+<img src="{{ page.featured_image }}" alt="Featured Image">
+{% endif %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+</div>
+{% endfor %}
+</div>  
 
 </div>
 </div>
