@@ -1,0 +1,4 @@
+title: SN Creative
+permalink: pretty
+plugins:
+  - jekyll-redirect-from
