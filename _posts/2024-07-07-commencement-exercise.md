@@ -2,7 +2,7 @@
 layout: default
 title: SN Creative
 description: Celebrate a graduation ceremony with SN Creative’s graduation party invitations and greeting cards. Whether it’s you or someone you love, mark the milestone with any of our graduation themed templates.
-featured_image: /images/graduation-cap.jpeg
+featured_image: ../images/graduation-cap.jpg
 ---
 <body>
 
