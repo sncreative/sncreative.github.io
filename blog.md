@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SN Creative
+title: Blog - SN Creative
 description: Celebrate a graduation ceremony with SN Creative’s graduation party invitations and greeting cards. Whether it’s you or someone you love, mark the milestone with any of our graduation themed templates.
 ---
 
@@ -28,9 +28,7 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 <div class="row">
 {% for post in site.posts %}
 <div class="col-md-4">
-{% if page.featured_image %}
-<img src="{{ page.featured_image }}" alt="Featured Image">
-{% endif %}
+{% if page.featured_image %} <img src="{{ page.featured_image }}" alt="Featured Image"> {% endif %}
 <a href="{{ post.url }}">{{ post.title }}</a>
 </div>
 {% endfor %}
