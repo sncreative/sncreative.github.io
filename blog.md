@@ -13,7 +13,7 @@ description: Blog
 </div>
 </div>
 
-<div class="row">
+<div class="row equal-height">
 
 <div class="col-md-4">
 <img src="{{site.url}}/images/graduation-cap.jpg" class="img-fluid">

@@ -32,7 +32,7 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
   </div>
   </div>
 
-  <div class="row">
+  <div class="row equal-height">
   <div class="col-md-4">
   <div class="s1">
   <h3>What is a grad announcements?</h3>
@@ -55,7 +55,7 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
   </div>
   </div>
 
-  <div class="row">
+  <div class="row equal-height">
   <div class="col-md-4">
   <div class="s1">
   <h3>What is a graduation ceremony?</h3>
