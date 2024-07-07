@@ -2,7 +2,7 @@
 layout: default
 title: What is a commencement exercise?
 description: 
-featured_image: /assets/img/graduation-cap.jpg
+featured_image: /images/graduation-cap.jpg
 ---
 
 <div class="main">
