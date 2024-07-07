@@ -16,8 +16,9 @@ description: Blog
 <div class="row">
 {% for post in site.posts %}
 <div class="col-md-4">
-{% if page.featured_image %}<img src="{{ page.featured_image }}" alt="Featured Image">{% endif %}
+{% if page.featured_image %} <img src="{{ page.featured_image }}" alt="Featured Image"> {% endif %}
 <a href="{{ post.url }}">{{ post.title }}</a>
+{{ content }}
 </div>
 {% endfor %}
 </div>  
