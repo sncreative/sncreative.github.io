@@ -19,7 +19,7 @@ description:
 
 <p>2. <strong>Scholastic Tradition</strong>: During the medieval period, universities were closely associated with the Church, and their ceremonies reflected religious rituals. The conferral of degrees was a formal academic exercise that involved rigorous examinations and public disputations (debates) on scholarly topics.</p>
 
-<p>3. <strong>The Ceremony/<strong>: The term "commencement" signifies the beginning of a new phase in the graduate's life. The ceremonies often included:</p>
+<p>3. <strong>The Ceremony</strong>: The term "commencement" signifies the beginning of a new phase in the graduate's life. The ceremonies often included:</p>
 <p>- <strong>Latin Orations</strong>: Academic exercises and speeches were conducted in Latin, the lingua franca of educated Europeans.</p>
 <p>- <strong>Academic Regalia</strong>: Graduates and faculty wore academic robes, a tradition that continues to this day. The design and colors of the robes signified the degree earned and the university attended.</p>
 <p>- <strong>Conferral of Degrees</strong>: Degrees were conferred by the chancellor or a high-ranking academic official, who would present a diploma and sometimes place a hood over the graduate's shoulders as a symbol of their new status.</p>
