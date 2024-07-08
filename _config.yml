@@ -2,5 +2,6 @@ title: SN Creative
 permalink: pretty
 paginate: 3
 plugins:
+  - jekyll-paginate
   - jekyll-redirect-from
-  - jekyll-paginate-v2
+  
