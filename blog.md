@@ -22,7 +22,12 @@ description: Blog
 </div>
 </div>
 
-
+<div class="col-md-4">
+<div class="s1">
+<div class="s1_img"><img src="{{site.url}}/images/graduation-ceremony.jpg" class="img-fluid"></div>
+<h2><a href="https://sncreative.github.io/early-history-of-commencement-exercise/">Early history of commencement exercise</a></h2>
+</div>
+</div>
 
 </div>  
 
