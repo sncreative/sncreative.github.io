@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: posts
 title: Graduation - It's that time of year again!
+description:
 permalink: /graduation-its-that-time-of-year-again/
+image: /images/graduation-cap.jpg
 ---
-
 
 <h1>Graduation: It's that time of year again!</h1>    
 

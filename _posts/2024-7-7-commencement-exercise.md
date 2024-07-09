@@ -1,17 +1,13 @@
 ---
-layout: default
+layout: posts
 title: What is a commencement exercise?
 description:
 permalink: /commencement-exercise/
 image: /images/graduation-cap.jpg
 ---
 
-<div class="main">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-
 <h2>What is a commencement exercise?</h2>
+
 <p>Since we are talking about Graduation Invitations, let’s delve on this closing of a new chapter and why it is an important mark of huge success of every student’s life. There are numerous types of graduations—elementary graduation, high school graduation, college graduation, and so on.</p>
 
 <p>Graduation—or also called commencement, convocation, or invocation—is the obtaining of a diploma or academic degree in which students become graduates. Before the graduation, candidates are referred to as graduands, and the date of graduation is often called graduation day. At the college and university levels, the faculty will usually wear academic dresses at the formal ceremonies, as will the administrator and degree candidates.</p>
@@ -43,8 +39,3 @@ image: /images/graduation-cap.jpg
 <p>Recessional: Similar to the processional, the ceremony ends with a recessional, where participants exit in a formal manner.</p>
 
 <p>View our <a href="{{site.url}}">graduation invitation cards</a> to celebrate your commencement ceremony.</p>
-
-</div>
-</div>
-</div>
-</div>

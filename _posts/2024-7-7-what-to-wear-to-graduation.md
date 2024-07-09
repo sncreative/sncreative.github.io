@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: posts
 title: What to wear to graduation?
+description:
 permalink: /what-to-wear-to-graduation/
+image: /images/graduation-cap.jpg
 ---
-
 
 <h1>What to wear to graduation?</h1>    
 

@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: posts
 title: Who to give graduation announcements and graduation invitations
+description:
 permalink: /who-to-give-graduation-announcements/
+image: /images/graduation-cap.jpg
 ---
-
 
 <h1>Who to give graduation announcements and graduation invitations</h1>    
 
