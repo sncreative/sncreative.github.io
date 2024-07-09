@@ -17,7 +17,10 @@ description: Blog
 
 {% if page.featured_image %}
 <img src="{{ page.featured_image }}" alt="Featured Image">
-<img src="{{site.url}}/images/graduation-cap.jpg">
+{% endif %}
+
+ {% if post.image %}
+<img src="{{ post.image }}">
 {% endif %}
 
 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
