@@ -4,4 +4,4 @@ paginate: 3
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
-  
+paginate_path: "blog/page:num/"
