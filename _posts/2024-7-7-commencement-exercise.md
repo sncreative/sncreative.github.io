@@ -3,7 +3,7 @@ layout: default
 title: What is a commencement exercise?
 description:
 permalink: /commencement-exercise/
-featured_image: /images/graduation-cap.jpg
+featured_image: "/images/graduation-cap.jpg"
 ---
 
 <div class="main">
