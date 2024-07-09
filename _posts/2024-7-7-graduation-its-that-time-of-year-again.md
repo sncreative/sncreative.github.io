@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graduation: It's that time of year again!
+title: Graduation - It's that time of year again!
 permalink: /graduation-its-that-time-of-year-again/
 ---
 
