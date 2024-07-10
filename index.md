@@ -26,7 +26,7 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 </div>
 </div>
 
-<div class="row equal-height">
+<div class="row">
 
 <div class="col-md-6">
 <h2 class="centered">Graduation Announcement Cards</h2>
