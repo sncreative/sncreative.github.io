@@ -26,18 +26,22 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 </div>
 </div>
 
-<div class="row">
+<div class="row equal-height">
 
 <div class="col-md-6">
+<div class="s1">	
 <h2 class="centered">Graduation Announcement Cards</h2>
 <p class="centered">Graduation announcements only announce the fact that the said person is getting a diploma or a degree.</p>
 <p><a href="" class="b1">View Our Templates</a></p>
 </div>
+</div>
 
 <div class="col-md-6">
+<div class="s1">
 <h2 class="centered">Graduation Invitation Cards</h2>
 <p class="centered">Graduation invitations include a request for attendance at the ceremony.</p>
 <p><a href="" class="b1">View Our Templates</a></p>
+</div>
 </div>
 
 </div>
