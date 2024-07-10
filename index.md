@@ -22,14 +22,13 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 <div class="col-md-12">
 <h2 class="centered">Graduation Announcement and Invitation Cards</h2>
 <p class="centered">After years of hard work and dedication - it’s finally graduation day and the best way to celebrate it is with a graduation party. Celebrate a graduation ceremony with SN Creative’s graduation party invitations and greeting cards. Whether it’s you or someone you love, mark the milestone with any of our graduation themed templates.</p>
-<p><a href="" class="b1">View Our Templates</a></p>
 </div>
 </div>
 
 <div class="row equal-height">
 
 <div class="col-md-6">
-<div class="s1">	
+<div class="cards">	
 <h2 class="centered">Graduation Announcement Cards</h2>
 <p class="centered">Graduation announcements only announce the fact that the said person is getting a diploma or a degree.</p>
 <p><a href="" class="b1">View Our Templates</a></p>
@@ -37,7 +36,7 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 </div>
 
 <div class="col-md-6">
-<div class="s1">
+<div class="cards">
 <h2 class="centered">Graduation Invitation Cards</h2>
 <p class="centered">Graduation invitations include a request for attendance at the ceremony.</p>
 <p><a href="" class="b1">View Our Templates</a></p>

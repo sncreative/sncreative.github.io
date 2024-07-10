@@ -13,11 +13,11 @@ body {
     flex: 1;
 }
 
-.equal-height .s1 {
+.equal-height .cards {
     flex: 1;
 }
 
-.s1_img {
+.cards_img {
 	margin: -25px -20px 15px -20px;
 }
 
