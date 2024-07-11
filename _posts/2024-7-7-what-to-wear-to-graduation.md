@@ -1,7 +1,6 @@
 ---
 layout: posts
 title: What to wear to graduation?
-description:
 permalink: /what-to-wear-to-graduation/
 image: /images/graduation-cap.jpg
 ---
@@ -30,3 +29,5 @@ image: /images/graduation-cap.jpg
 - Wear jeans and shorts. <br/>
 - At any time do not wear flip-flops, sandals, tennis shoes or bunny slippers, regardless of the gender of the graduate.<br/>
 - Do not affix a message out of masking tape letters to the top of her mortarboard or the back of the gowns!</p>
+
+<p>View our <a href="{{site.url}}/graduation-invitation-cards">graduation invitation cards</a> or <a href="{{site.url}}/graduation-announcement-cards">graduation announcement cards</a> to celebrate your commencement ceremony.</p>

@@ -1,7 +1,6 @@
 ---
 layout: posts
 title: Early history of commencement exercise
-description:
 permalink: /early-history-of-commencement-exercise/
 image: /images/graduation-cap.jpg
 ---
@@ -39,4 +38,4 @@ image: /images/graduation-cap.jpg
 
 <p>The history of commencement exercises is a testament to the enduring value of academic achievement and the importance of education in society. From their medieval origins to their modern manifestations, these ceremonies have evolved to celebrate the accomplishments of graduates and to mark the beginning of their professional and personal journeys.</p>
 
-<p>View our <a href="{{site.url}}">graduation invitation cards</a> to celebrate your commencement ceremony.</p>
+<p>View our <a href="{{site.url}}/graduation-invitation-cards">graduation invitation cards</a> or <a href="{{site.url}}/graduation-announcement-cards">graduation announcement cards</a> to celebrate your commencement ceremony.</p>

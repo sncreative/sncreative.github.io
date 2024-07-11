@@ -1,7 +1,6 @@
 ---
 layout: posts
 title: Who to give graduation announcements and graduation invitations
-description:
 permalink: /who-to-give-graduation-announcements/
 image: /images/graduation-cap.jpg
 ---
@@ -17,3 +16,5 @@ image: /images/graduation-cap.jpg
 <p>Graduation announcements are a necessity because a lot of colleges and universities have limits on how many people you can invite that's why they limit the number of tickets to the graduate. These graduation tickets are meant for a selected members of the family or friends -- those who are expected to show up at the ceremony. Think through carefully of who you're going to invite to the graduation ceremony. What if they show up and you don't have tickets for them?</p>
 
 <p>Send graduation invitations only to immediate family and the closest of friends like godparents. What about the rest? Well, now is a good time to have a graduation party so you can invite the rest of those friends.</p>
+
+<p>View our <a href="{{site.url}}/graduation-invitation-cards">graduation invitation cards</a> or <a href="{{site.url}}/graduation-announcement-cards">graduation announcement cards</a> to celebrate your commencement ceremony.</p>

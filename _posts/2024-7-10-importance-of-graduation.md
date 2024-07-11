@@ -10,3 +10,5 @@ image: /images/graduation-cap.jpg
 <p>Some people might ask, Are graduations really important?</p>
 
 <p>A graduation is necessary because it is a rite of passage to so many people. A graduation is not just the end battle; it is a new start — the start of a new chapter in a person’s life whether it be another school year or the entry into finding and landing a job. Graduations help people reminisce the things achieved in the past, as well as helping people to look forward to the future.</p>
+
+<p>View our <a href="{{site.url}}/graduation-invitation-cards">graduation invitation cards</a> or <a href="{{site.url}}/graduation-announcement-cards">graduation announcement cards</a> to celebrate your commencement ceremony.</p>

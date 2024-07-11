@@ -1,16 +1,15 @@
 ---
 layout: posts
 title: What is a commencement exercise?
-description:
 permalink: /commencement-exercise/
 image: /images/graduation-cap.jpg
 ---
 
 <h2>What is a commencement exercise?</h2>
 
-<p>Since we are talking about Graduation Invitations, let’s delve on this closing of a new chapter and why it is an important mark of huge success of every student’s life. There are numerous types of graduations—elementary graduation, high school graduation, college graduation, and so on.</p>
+<p>Since we are talking about graduation invitations, let’s delve on this closing of a new chapter and why it is an important mark of huge success of every student’s life. There are numerous types of graduations, like elementary graduation, high school graduation, college graduation, and so on.</p>
 
-<p>Graduation—or also called commencement, convocation, or invocation—is the obtaining of a diploma or academic degree in which students become graduates. Before the graduation, candidates are referred to as graduands, and the date of graduation is often called graduation day. At the college and university levels, the faculty will usually wear academic dresses at the formal ceremonies, as will the administrator and degree candidates.</p>
+<p>Graduation or also called commencement, convocation, or invocation is the obtaining of an academic degree in which students become graduates. Before the graduation, candidates are referred to as graduands, and the date of graduation is often called graduation day. At the college and university levels, the faculty will usually wear academic dresses at the formal ceremonies, as will the administrator and degree candidates.</p>
 
 <p>Graduation at the college and university level happens when the supervising officer deliberates degrees upon candidates, either individually or all at once, even if graduates physically receive their diploma later at a smaller college or departmental ceremony. After degree completion, graduates can be referred to by their graduating year.</p>
 
@@ -38,4 +37,4 @@ image: /images/graduation-cap.jpg
 
 <p>Recessional: Similar to the processional, the ceremony ends with a recessional, where participants exit in a formal manner.</p>
 
-<p>View our <a href="{{site.url}}">graduation invitation cards</a> to celebrate your commencement ceremony.</p>
+<p>View our <a href="{{site.url}}/graduation-invitation-cards">graduation invitation cards</a> or <a href="{{site.url}}/graduation-announcement-cards">graduation announcement cards</a> to celebrate your commencement ceremony.</p>

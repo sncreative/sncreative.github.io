@@ -9,7 +9,7 @@ description: Celebrate a graduation ceremony with SN Creative’s graduation par
 <div class="row">
 <div class="col-md-12">
 <span>Welcome to SN Creative</span>
-<h1>We Sell Premium Graduation Invitation Cards</h1>
+<h1>We Sell Premium Graduation Announcement and Invitation Cards</h1>
 </div>
 </div>
 </div>
