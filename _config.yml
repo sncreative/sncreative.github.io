@@ -1,7 +1,7 @@
 title: SN Creative
 title-on-all-pages: true
 permalink: pretty
-paginate: 12
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
