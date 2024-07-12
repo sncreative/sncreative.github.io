@@ -14,10 +14,9 @@ description: Blog
 </div>
 
 
-
-
-{% for post in paginator.posts %}
 <div class="row equal-height">
+{% for post in paginator.posts %}
+
 <div class="col-md-4">
 <div class="cards">
 {% if post.image %} <img src="{{ post.image }}" class="img-fluid"> {% endif %}
@@ -25,9 +24,9 @@ description: Blog
 {{ post.content | strip_html | truncatewords: 50 }}
 </div>
 </div>
-</div>
-{% endfor %}
 
+{% endfor %}
+</div>
 
 
 {% if paginator.previous_page %}
