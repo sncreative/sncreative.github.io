@@ -535,7 +535,7 @@
 }
 
 .card-deck .card {
-  margin-bottom: 15px;
+  margin-bottom: 15px; border: 1px solid #d9d9d9;
 }
 
 @media (min-width: 576px) {
