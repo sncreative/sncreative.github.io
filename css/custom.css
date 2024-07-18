@@ -609,6 +609,7 @@ nav ul {
 	padding: 0;
 	width: 50%;
     background-color: #000;
+	text-align: center;
 }
 
 nav ul:before, nav ul:after {
