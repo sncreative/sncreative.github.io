@@ -604,12 +604,11 @@ nav {
 
 /* First Level */
 nav ul {
-	list-style: none;
-	margin: 0;
+		list-style: none;
+	margin: 0 auto;
 	padding: 0;
-	width: 100%;
+	width: 50%;
     background-color: #000;
-	text-align: center; 
 }
 
 nav ul:before, nav ul:after {
