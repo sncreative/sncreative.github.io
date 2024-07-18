@@ -608,7 +608,7 @@ nav ul {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-    background-color: #333333;
+    background-color: #000;
 }
 
 nav ul:before, nav ul:after {
@@ -635,9 +635,13 @@ nav ul li {
 nav ul a {
 	margin: 0;
 	padding: 0 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
     color: #999;
     line-height: 42px;
-    text-decoration: none;    
+    text-decoration: none;
+    text-align: center; 
 }
 
 nav ul a:hover {
