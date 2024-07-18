@@ -17,10 +17,12 @@ description: Blog
 <div class="card-deck">
 
 {% for post in paginator.posts %}
+<div class="col-md-4">
 <div class="card">
 {% if post.image %} <img src="{{ post.image }}" class="img-fluid"> {% endif %}
 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 {{ post.content | strip_html | truncatewords: 50 }}
+</div>
 </div>
 {% endfor %}
 

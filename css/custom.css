@@ -527,7 +527,6 @@ body {
 	margin: -25px -20px 15px -20px;
 }
 
-
 .card-deck {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -537,9 +536,10 @@ body {
     -ms-flex-direction: column;
     flex-direction: column;
 }
-.card-deck .card {
-    margin-bottom: 15px;
+.card-deck .card {    
     border: 1px solid #d9d9d9;
+    padding: 25px 20px 20px 20px;	
+	margin-bottom: 25px;
 }
 @media (min-width: 576px) {
   .card-deck {
