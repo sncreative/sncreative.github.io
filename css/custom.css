@@ -604,12 +604,12 @@ nav {
 
 /* First Level */
 nav ul {
-		list-style: none;
+	list-style: none;
 	margin: 0 auto;
 	padding: 0;
-	width: 50%;
+	width: auto;
     background-color: #000;
-	text-align: center;
+    text-align: center;
 }
 
 nav ul:before, nav ul:after {
@@ -642,7 +642,6 @@ nav ul a {
     color: #999;
     line-height: 42px;
     text-decoration: none;
-    text-align: center; 
 }
 
 nav ul a:hover {
@@ -694,6 +693,7 @@ nav ul ul ul ul {
     display: none;
     background: #444;
     padding: 15px;
+    position: relative;
 }
 
 .toggle-button {
