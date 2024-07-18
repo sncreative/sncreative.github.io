@@ -1,3 +1,13 @@
+/*Custom Reset*/
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background-color: #fff;
+}
+
 /*BootStrap 4 Grid*/
 .container-fluid {
 	width: 100%;
@@ -497,47 +507,40 @@
 	margin-left: auto;
 }
 
-
-
 .equal-height {
     display: flex;
     flex-wrap: wrap;
 }
-
 .equal-height > div {
     display: flex;
     flex: 1;
 }
-
 .equal-height .cards {
     flex: 1;
 }
-
 .cards {
 	border: 1px solid #d9d9d9;
 	padding: 25px 20px 20px 20px;	
 	margin-bottom: 25px;	
 }
-
-.cards_img {
+.cards img {
 	margin: -25px -20px 15px -20px;
 }
 
 
 .card-deck {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
-
 .card-deck .card {
-  margin-bottom: 15px; border: 1px solid #d9d9d9;
+    margin-bottom: 15px;
+    border: 1px solid #d9d9d9;
 }
-
 @media (min-width: 576px) {
   .card-deck {
     -webkit-box-orient: horizontal;
@@ -546,7 +549,7 @@
     flex-flow: row wrap;
     margin-right: -15px;
     margin-left: -15px;
-  }
+}
   .card-deck .card {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -562,16 +565,6 @@
     margin-bottom: 0;
     margin-left: 15px;
   }
-}
-
-/*Custom Reset*/
-* {
-	box-sizing: border-box;
-}
-
-body {
-	margin: 0;
-	background-color: #fff;
 }
 
 /*Custom CSS*/
