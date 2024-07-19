@@ -791,11 +791,10 @@ nav ul ul {
 }
 
 .button1 {
-	width: 300px;
-	height: 50px;
+	width: 400px;	
 	background-color: orange;
 	border-radius: 30px;
-	padding: 20px;
+	padding: 18px 14px;
 	margin: 0 auto;
 	display: inline-block;
 	text-align: center;
