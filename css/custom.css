@@ -520,69 +520,12 @@ body {
 }
 .cards {
 	border: 1px solid #d9d9d9;
-	padding: 25px 20px 20px 20px;	
-	margin-bottom: 25px;	
-}
-/*.cards img {
-	margin: -25px -20px 15px -20px;
-}*/
-
-/*.card-deck {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-}
-.card-deck .card {    
-    border: 1px solid #d9d9d9;
-    padding: 25px 20px 20px 20px;	
+	padding: 25px 20px 20px 20px;
 	margin-bottom: 25px;
 }
-@media (min-width: 576px) {
-  .card-deck {
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-flow: row wrap;
-    flex-flow: row wrap;
-    margin-right: -15px;
-    margin-left: -15px;
+.cards img {
+	margin: -25px -20px 20px -20px;	
 }
-  .card-deck .card {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-flex: 1;
-    -ms-flex: 1 0 0%;
-    flex: 1 0 0%;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    margin-right: 15px;
-    margin-bottom: 0;
-    margin-left: 15px;
-  }
-}
-
-.d-flex {
-  display: -webkit-box !important;
-  display: -ms-flexbox !important;
-  display: flex !important;
-}
-.align-items-stretch {
-  -webkit-box-align: stretch !important;
-  -ms-flex-align: stretch !important;
-  align-items: stretch !important;
-}
-.flex-column {
-  -webkit-box-orient: vertical !important;
-  -webkit-box-direction: normal !important;
-  -ms-flex-direction: column !important;
-  flex-direction: column !important;
-}*/
 
 
 /*Custom CSS*/
@@ -697,7 +640,7 @@ nav ul ul ul ul {
 }
 
 .toggle-button {
-  position: static;
+  position: absolute;
   width: 44px;
   height: 26px;
   transition: .25s;
@@ -854,7 +797,7 @@ nav ul ul {
 	border-radius: 30px;
 	padding: 20px;
 	margin: 0 auto;
-	display: block;
+	
 	text-align: center;
 	text-decoration: none;
 	font-family: 'Open Sans', sans-serif;
