@@ -516,18 +516,18 @@ body {
     flex: 1;
 }
 .equal-height .cards {
-    flex: 1;
+    flex: 1;    	
 }
 .cards {
 	border: 1px solid #d9d9d9;
 	padding: 25px 20px 20px 20px;	
 	margin-bottom: 25px;	
 }
-.cards img {
+/*.cards img {
 	margin: -25px -20px 15px -20px;
-}
+}*/
 
-.card-deck {
+/*.card-deck {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -582,7 +582,7 @@ body {
   -webkit-box-direction: normal !important;
   -ms-flex-direction: column !important;
   flex-direction: column !important;
-}
+}*/
 
 
 /*Custom CSS*/
@@ -607,7 +607,7 @@ nav ul {
 	list-style: none;
 	margin: 0 auto;
 	padding: 0;
-	width: auto;
+	width: 40%;
     background-color: #000;
     text-align: center;
 }
@@ -697,7 +697,7 @@ nav ul ul ul ul {
 }
 
 .toggle-button {
-  position: fixed;
+  position: static;
   width: 44px;
   height: 26px;
   transition: .25s;
